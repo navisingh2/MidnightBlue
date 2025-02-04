@@ -1,0 +1,25 @@
+.introTxt{
+    text-align: center;
+    color: white;
+}
+
+
+
+#startBtn{
+    margin: 0;
+    position: absolute;
+    top: 40%;
+    left: 45%;
+}
+
+#aboutBtn{
+    margin: 0;
+    position: absolute;
+    top: 60%;
+    left: 44%;
+}
+
+body{
+    background-image: url("brickWall.jpg");
+    background-size: cover;
+}
